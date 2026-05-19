@@ -1,3 +1,6 @@
+synopsis
+
+
 1.	Title of the Project:
 
 Grocery Go – Web-Based Grocery Delivery System
